@@ -11,8 +11,8 @@ MAST30034_Project1/
 ├── README.md                     # Project documentation and overview
 ├── .gitattributes                # Git configuration for file handling
 ├── fare_amount_skew.png           # Distribution of fare amount
-├── fare_per_min–nego.png          # Map including negotiated fares
-├── fare_per_min–nego_log.png      # Log-scaled version of negotiated fare map
+├── fare_per_min_-nego.png          # Map including negotiated fares
+├── fare_per_min_-nego_log.png      # Log-scaled version of negotiated fare map
 ├── fare_per_min_nego.png          # Map excluding negotiated fares
 ├── fare_vs_severity.png           # Average fare per minute by weather severity
 ├── foliumChoroplethMap.html       # Interactive geospatial map (Folium)
