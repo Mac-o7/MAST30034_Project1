@@ -18,6 +18,7 @@ MAST30034_Project1/
 ├── foliumChoroplethMap.html       # Interactive geospatial map (Folium)
 ├── trip_distance_skew.png         # Distribution of trip distance
 ├── trip_duration_skew.png         # Distribution of trip duration
+├── requirements.txt               # Required packages for reproducing data
 
 ### How to Run
 1. Install some packages - something like this
