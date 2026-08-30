@@ -6,10 +6,10 @@ Investigates how weather and location affect fare per minute in New York City.
 
 ### Repo Struct
 MAST30034_Project1/
-├── data/                         # Raw and processed datasets (weather, taxi trips, zone shapefiles)
-├── Project1.ipynb                # Main Jupyter Notebook containing all analysis and modelling
-├── README.md                     # Project documentation and overview
-├── .gitattributes                # Git configuration for file handling
+├── data/                         # Raw and processed data
+├── Project1.ipynb                # Main Jupyter Notebook
+├── README.md                     # Project overview
+├── .gitattributes
 ├── fare_amount_skew.png           # Distribution of fare amount
 ├── fare_per_min_-nego.png          # Map including negotiated fares
 ├── fare_per_min_-nego_log.png      # Log-scaled version of negotiated fare map
