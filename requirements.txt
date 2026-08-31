@@ -1,1 +1,8 @@
-pip3 install pyspark pandas matplotlib folium
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+folium
+geopandas
+scikit-learn
