@@ -22,7 +22,7 @@ MAST30034_Project1/
 
 ### How to Run
 1. Install some packages - something like this
-pip3 install pyspark pandas matplotlib folium
+pip3 install pyspark pandas numpy matplotlib seaborn folium geopandas scikit-learn
 
 2. Download or clone the repository
 
